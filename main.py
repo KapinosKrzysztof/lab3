@@ -86,7 +86,7 @@ def iloczyn(a,b,ile):
     return "koniec"
 print(iloczyn(1,4,10))
 '''
-#zad 9
+#zad 8
 '''
 def zakupy(** lista):
     suma = 0
